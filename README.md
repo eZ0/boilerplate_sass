@@ -1,5 +1,3 @@
-# Webapp bootstrap
-
 ## prerequisites
 
 ### Node
