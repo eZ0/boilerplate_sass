@@ -1,4 +1,4 @@
-## prerequisites
+# How To
 
 ### Node
 
